@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi everyone :wave:
+
+I'm an entrepreneur & software engineer from Germany, who loves open source.
 
 <!--
 **mikeploeger/mikeploeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
